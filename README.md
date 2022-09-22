@@ -1,2 +1,2 @@
-# smart-watch-autism
+#•	UI ux design for smart watch for people with autism
  
